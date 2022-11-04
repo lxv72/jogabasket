@@ -1,0 +1,335 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sc",
+				"section\tTag"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"id_grau",
+				"id_grau_form"
+			],
+			[
+				"id_acredita",
+				"ID_ACREDITACAO"
+			],
+			[
+				"panel",
+				"panel-title"
+			],
+			[
+				"id",
+				"id_nivel"
+			],
+			[
+				"AC",
+				"ACRED_TPTD_DATA"
+			],
+			[
+				"ACRED_",
+				"ACRED_TPTD_NUM"
+			],
+			[
+				"TRE_CURSO_ENB",
+				"TRE_CURSO_ENB_NUMERO"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp8/htdocs/jogabasket",
+		"/C/xampp8/htdocs/jogabasket/application",
+		"/C/xampp8/htdocs/jogabasket/application/models"
+	],
+	"file_history":
+	[
+		"/C/xampp8/htdocs/jogabasket/application/controllers/Jogabasket.php",
+		"/C/xampp8/htdocs/jogabasket/application/views/torneio.php",
+		"/C/xampp8/htdocs/jogabasket/application/models/Company_model.php",
+		"/C/xampp8/htdocs/jogabasket/application/views/creditos.php",
+		"/C/xampp8/htdocs/jogabasket/application/models/Event_model.php",
+		"/C/xampp8/htdocs/jogabasket/application/views/clubes.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp49725/application/views/clubes.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp10112/application/helpers/functions_helper.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp04620/application/controllers/Jogabasket.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp31339/application/models/Club_model.php",
+		"/C/xampp8/htdocs/jogabasket/application/models/Club_model.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp13240/application/models/Jb_model.php",
+		"/C/xampp8/htdocs/jogabasket/application/config/autoload.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp09650/application/config/autoload.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp08759/application/helpers/helpers.php",
+		"/C/xampp8/htdocs/jogabasket/application/config/routes.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp07654/application/config/routes.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp03196/application/controllers/Jogabasket.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp03834/application/controllers/Welcome.php",
+		"/C/xampp/htdocs/jogabasket/jogabasket.sublime-project",
+		"/C/xampp/htdocs/jogabasket/application/models/Club_model.php",
+		"/C/xampp/htdocs/jogabasket/application/config/routes.php",
+		"/C/xampp/htdocs/jogabasket/application/controllers/Jogabasket.php",
+		"/C/xampp/htdocs/jogabasket/application/config/autoload.php",
+		"/C/xampp/htdocs/resultados/application/config/autoload.php",
+		"/C/xampp/htdocs/resultados/application/controllers/Competition.php",
+		"/C/xampp/htdocs/resultados/application/views/competitionsSeason.php",
+		"/C/xampp/htdocs/resultados/application/helpers/functions_helper.php",
+		"/C/xampp/htdocs/jogabasket/application/helpers/functions_helpers.php",
+		"/C/xampp/htdocs/jogabasket/application/views/head.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp22341/application/views/head.php",
+		"/C/xampp/htdocs/jogabasket/application/views/admin/campos.php",
+		"/C/xampp/htdocs/jogabasket/application/views/clubes.php",
+		"/C/xampp/htdocs/enb/application/views/competicao/tab_prova_plantel.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp07761/assets/json/juiz_detalhe.json",
+		"/C/Users/lxv72/AppData/Local/Temp/scp54167/assets/json/juizes.json",
+		"/C/Users/lxv72/AppData/Local/Temp/scp13490/assets/json/juiz_nomeacoes.json",
+		"/C/Users/lxv72/AppData/Local/Temp/scp54499/assets/json",
+		"/C/xampp/htdocs/jogabasket/application/views/formulario.php",
+		"/C/Users/lxv72/Downloads/koolreport_and_examples_5.5.0/koolreport_and_examples-5.5.0/koolreport/core/autoload.php",
+		"/C/xampp/htdocs/jogabasket/application/views/torneio.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp57221/application/controllers/Jogabasket.php",
+		"/C/xampp/htdocs/jogabasket/application/views/footer.php",
+		"/C/xampp/htdocs/jogabasket/assets/css/style.css",
+		"/C/Users/lxv72/AppData/Local/Temp/scp55804/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/template-parts/calendario-post.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp57343/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/page-calendario.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp16507/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/assets/js/calendario.js",
+		"/C/Users/lxv72/AppData/Local/Temp/scp07321/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/template-parts/calendario-post.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp05924/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/page-calendario.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp36626/application/views/clubes.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp30040/application/controllers/Jogabasket.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp42183/application/config/routes.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp27817/application/views/footer.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp32390/.htaccess",
+		"/C/Users/lxv72/AppData/Local/Temp/scp52487/.htaccess",
+		"/C/Users/lxv72/AppData/Local/Temp/scp52852/application/.htaccess",
+		"/C/Users/lxv72/AppData/Local/Temp/scp50222/application/controllers/Jogabasket.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp49053/application/config/routes.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp49814/application/config/config.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp32331/application/config/config.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp44240/index.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp37715/.htaccess",
+		"/C/Users/lxv72/Downloads/jb_club.sql",
+		"/C/Users/lxv72/AppData/Local/Temp/scp20978/application/views/clubes.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp20571/application/views/head.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp19514/application/views/add_court.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp19253/application/views/footer-formulario.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp18803/application/models/Jb_model.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp06246/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/functions.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp50444/application/views/common/form.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp44836/application/controllers/WelcomeController.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp42754/application/views/common/head.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp41861/application/views/common/card.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp40527/application/models/Competicao_model.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp40470/application/controllers/Competicoes.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp39869/application/views/competicao/prova.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp23186/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/functions.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp37805/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/assets/js/calendario.js",
+		"/C/Users/lxv72/AppData/Local/Temp/scp23712/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/page-calendario.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp34265/application/views/common/card.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp40289/application/controllers/WelcomeController.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp12606/home/webmaster/websites/3x3basketart/css/style.css",
+		"/C/Users/lxv72/AppData/Local/Temp/scp06864/home/webmaster/websites/3x3basketart/index.html",
+		"/C/xampp/htdocs/jogabasket/assets/js/contact_me.js",
+		"/C/xampp/htdocs/jogabasket/application/views/footer-formulario.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp58428/index1.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp58292/index.html",
+		"/C/xampp/htdocs/jogabasket/application/views/map.php",
+		"/C/xampp/htdocs/jogabasket/application/views/gallery.php",
+		"/C/xampp/htdocs/jogabasket/application/views/creditos.php",
+		"/C/xampp/htdocs/jogabasket/application/views/add_court.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp32393/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/front-page.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp04355/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/front-page.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp51011/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/front-page.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp51579/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/page.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp01776/home/webmaster/websites/3x3basketart/index.html",
+		"/C/Users/lxv72/AppData/Local/Temp/scp16923/home/webmaster/websites/3x3basketart/css/style.css",
+		"/C/Users/lxv72/AppData/Local/Temp/scp51987/application/views/entidades/equipa.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp52779/application/models/Competicao_model.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp49602/application/controllers/ClubeController.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp52372/application/models/Clube_model.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp50018/application/views/clube/equipa_agenda.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp48924/application/config/routes.php",
+		"/C/xampp/htdocs/jogabasket/application/views/banner.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp40921/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/template-parts/calendario-post.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp39275/usr/local/www/apache24/fpb/wp-content/themes/fpbasquetebol/page-calendario.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp57048/css/styles.css",
+		"/C/Users/lxv72/AppData/Local/Temp/scp04521/application/views/footer.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp36360/index.html",
+		"/C/Users/lxv72/AppData/Local/Temp/scp26956/application/controllers/Jogabasket.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp30730/assets/js/contact_me.js",
+		"/C/Users/lxv72/AppData/Local/Temp/scp45288/application/views/footer-formulario.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp45466/application/views/footer.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp45804/application/views/formulario.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp55987/.htaccess",
+		"/C/Users/lxv72/AppData/Local/Temp/scp57079/application/controllers/Jogabasket.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp39701/application/models/Jb_model.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp41351/application/config/database.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp30012/assets/js/jqBootstrapValidation.js",
+		"/C/Users/lxv72/AppData/Local/Temp/scp56780/application/models/jb_model.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp49767/application/config/config.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp16003/.htaccess",
+		"/C/Users/lxv72/AppData/Local/Temp/scp52132/application/config/config.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp52004/application/config/autoload.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp58983/application/config/autoload.php",
+		"/C/Users/lxv72/AppData/Local/Temp/scp02947/application/models/index.html",
+		"/C/Users/lxv72/AppData/Local/Temp/scp01896/index.php",
+		"/C/xampp/htdocs/jogabasket/application/models/jb_model.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"o-more-clubs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jogabasket.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
